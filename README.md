@@ -1,6 +1,6 @@
 # Gene-compression-and-Cancer-type-classification
 Fall 2021 Final Project for CM226 - Machine Learning in Bioinformatics
-
+Check out the detailed report [here](Group16_ProjectReport.pdf)
 ## Dataset
 * [TCGA](https://portal.gdc.cancer.gov/) -  The Cancer Genome Atlas PanCanAtlas RNAseq data from the National Cancer Institute Genomic Data Commons
 * These data consisted of 11,069 samples with 20,531 measured genes.
